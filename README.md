@@ -1,6 +1,6 @@
 # project_1
 
-# Title of the Project: Eniac's Expansion to Brazil"
+# Title of the Project: "Eniac's Expansion to Brazil"
 
 # The first project of our Data Science course (MySQL and Tableau)
 
